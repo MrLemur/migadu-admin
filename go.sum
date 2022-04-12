@@ -1,0 +1,14 @@
+github.com/MrLemur/migadu-go v0.1.0 h1:ma1hUVbzaBRiv9tiLBs09ZZzvGSRb35NCGdQh9lw0mg=
+github.com/MrLemur/migadu-go v0.1.0/go.mod h1:E6gvmz3aEA7279iRxBpkWhESQHdWEl0lGygGd4gmaUk=
+github.com/MrLemur/migadu-go v0.2.0 h1:+dbMKiGEFARZw0VCu1rPtv4lTpvdnEZLRJ5Fv1vof/E=
+github.com/MrLemur/migadu-go v0.2.0/go.mod h1:E6gvmz3aEA7279iRxBpkWhESQHdWEl0lGygGd4gmaUk=
+github.com/MrLemur/migadu-go v0.3.0 h1:R1R7ukuwnWb/l2bU4twqJPhMrs5BeofG/WP8Wee9R7Q=
+github.com/MrLemur/migadu-go v0.3.0/go.mod h1:E6gvmz3aEA7279iRxBpkWhESQHdWEl0lGygGd4gmaUk=
+github.com/go-chi/chi/v5 v5.0.7 h1:rDTPXLDHGATaeHvVlLcR4Qe0zftYethFucbjVQ1PxU8=
+github.com/go-chi/chi/v5 v5.0.7/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
+github.com/go-chi/cors v1.2.0 h1:tV1g1XENQ8ku4Bq3K9ub2AtgG+p16SmzeMSGTwrOKdE=
+github.com/go-chi/cors v1.2.0/go.mod h1:sSbTewc+6wYHBBCW7ytsFSn836hqM7JxpglAy2Vzc58=
+github.com/go-chi/render v1.0.1 h1:4/5tis2cKaNdnv9zFLfXzcquC9HbeZgCnxGnKrltBS8=
+github.com/go-chi/render v1.0.1/go.mod h1:pq4Rr7HbnsdaeHagklXub+p6Wd16Af5l9koip1OvJns=
+github.com/joho/godotenv v1.4.0 h1:3l4+N6zfMWnkbPEXKng2o2/MR5mSwTrBih4ZEkkz1lg=
+github.com/joho/godotenv v1.4.0/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
